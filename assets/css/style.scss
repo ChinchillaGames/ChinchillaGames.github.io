@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+#header {
+	height:inherit !important;
+}
 #header nav {
 	background:transparent !important;
 }
